@@ -1,3 +1,9 @@
+Laravel Extention Side A_DAY 2_20240217
+
+- テーマ：Laravel プロジェクトの json データを Next.js で表示させる
+- 仕様：前回課題の「api.php」を利用。controller に index の記述を行い、その内容をそのまま Next.js へ。
+- その他：Next.js をインストールしたことすら無かったので、講義にて api を利用する目的を理解したことで、まずは Laravel プロジェクト外との連携に挑戦したい思いからこの課題内容にしました。
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
